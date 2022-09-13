@@ -1,7 +1,4 @@
-# ¿Hola👋 cómo estás?
-
-
-
+# こんにちは、みんな:bow:。
 
 ##### *Social Media* :whale2:
 
