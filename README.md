@@ -1,6 +1,6 @@
-# こんにちは、みんな:bow:。
+# Hello, My name is Shaileja Gundu from Mumbai, India.
 
-##### *Social Media* :whale2:
+##### *Social Media* 
 
 <div align="left">
         <a href="https://twitter.com/shaileJa_7"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=twitter&logoColor=white" /></a>
