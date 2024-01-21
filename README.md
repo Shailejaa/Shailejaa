@@ -1,4 +1,4 @@
-# Hello, My name is Shaileja Gundu from Mumbai, India.
+# Hello, My name is Shaileja Gundu
 
 ##### *Social Media* 
 
