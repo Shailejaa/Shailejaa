@@ -1,4 +1,4 @@
-# Hello, My name is Shaileja Gundu
+# Hello, My name is Shaileja G
 
 ##### *Social Media* 
 
