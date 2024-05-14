@@ -20,6 +20,8 @@ I'm a Data Analyst with a passion for transforming data into actionable insights
 
 Here, you can find a collection of my projects and contributions, showcasing my skills and experience in data analysis.
 
+https://movie-recommender-system-gauidjmcugwhbr6fmossru.streamlit.app/
+
 ## 📫 Get in Touch
 
 Feel free to reach out to me for any exciting opportunities, collaborations, or just a chat about data!
