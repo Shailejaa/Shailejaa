@@ -4,10 +4,10 @@ I'm a Data Analyst with a passion for transforming data into actionable insights
 
 ## 📊 My Experience
 
-- **Data Transformation and Visualization**: Transformed ambiguous data into powerful insights by developing over 3 interactive Tableau dashboards, providing key insights on Telecom KPIs. Boosted the development of new Tableau reports in the project by 80% within the first 4 months through the creation of interactive dashboards.
-- **Data Processing**: Developed Python scripts to process large data files, transforming them into valuable, ready-to-use formats for Tableau and inserting into Database Tables.
-- **Infrastructure Management**: Managed large-scale infrastructure by overseeing the creation of over 300+ database tables using SQL and managing data ingestion using the Pentaho ETL tool.
-- **Report Improvement**: Identified opportunities for report improvement through the analysis and validations related to Telecom KPIs under the guidance of senior leadership.
+- **Data Visualization**: Developed interactive Tableau dashboards, providing key Telecom KPI insights and boosting report development by 80%.
+- **Data Processing**: Utilized Python for large-scale data processing, preparing data for Tableau and database insertion.
+- **Infrastructure Management**: Oversaw the creation of 300+ SQL database tables and managed data ingestion using Pentaho ETL.
+- **Report Improvement**: Identified and implemented improvements in Telecom KPI analysis and validation.
 
 ## 🛠️ Skills
 
