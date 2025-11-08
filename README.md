@@ -1,29 +1,25 @@
-# Hello, World! 👋 I'm Shaileja Gundu
 
-I'm a Data Analyst with a passion for transforming data into actionable insights. With experience in Python, SQL, ETL, and Tableau, I've been able to contribute significantly to my current role at Quantum Software Solutions Private Limited.
+<h1 align="left">Hi 👋, I'm Shaileja Gundu</h1>
+<img align="right" alt="Coding" width="400" src="https://www.edureka.co/blog/wp-content/uploads/2018/08/Insurance-Leadspace-Aniamted.gif">
 
-## 📊 My Experience
+- 🔭 Data Analytics / Machine Learning
 
-- **Data Visualization**: Developed interactive Tableau dashboards, providing key Telecom KPI insights and boosting report development by 80%.
-- **Data Processing**: Utilized Python for large-scale data processing, preparing data for Tableau and database insertion.
-- **Infrastructure Management**: Oversaw the creation of 300+ SQL database tables and managed data ingestion using Pentaho ETL.
-- **Report Improvement**: Identified and implemented improvements in Telecom KPI analysis and validation.
+- 💬 Python / SQL / Tableau / Pentaho
 
-## 🛠️ Skills
-
-- **Languages**: Python, SQL
-- **Tools**: Tableau, Excel, Pentaho ETL
-- **Libraries**: Pandas, Numpy
-- **Concepts**: Data Analysis, Data Transformation, Machine Learning
-
-## 📈 My Projects
-
-Here, you can find a collection of my projects and contributions, showcasing my skills and experience in data analysis.
-
-https://movie-recommender-system-gauidjmcugwhbr6fmossru.streamlit.app/
-
-## 📫 Get in Touch
-
-Feel free to reach out to me for any exciting opportunities, collaborations, or just a chat about data!
+- 🌱 More analytics work coming soon...
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/gundushailu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gundushailu" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/shailejag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shailejag" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjune-krishna&show_icons=true&locale=en&layout=compact" alt="arjune-krishna" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjune-krishna&show_icons=true&locale=en" alt="arjune-krishna" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjune-krishna&" alt="arjune-krishna" /></p>
